@@ -1,4 +1,4 @@
-# CSYE7125 Static Site hosted with Caddy
+# Static Site hosted with Caddy
 
 This repository contains configurations and html files for a static site hosted with Caddy.
 
